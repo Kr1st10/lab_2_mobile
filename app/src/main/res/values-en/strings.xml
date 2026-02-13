@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Gallery</string>
+
     <!-- Buttons -->
     <string name="previous">Previous</string>
     <string name="next">Next</string>
@@ -14,7 +15,5 @@
 
     <string name="artwork_title_3">Girl with a Pearl Earring</string>
     <string name="artwork_author_3">Johannes Vermeer, 1665</string>
-
-
 
 </resources>
